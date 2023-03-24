@@ -8,4 +8,4 @@ Guide for Lab Practices In-band Network Telemetry based on P4 &amp; P4Runtime to
 ### Lab Installation & Guide
 This repo only for file, for detail lab guide you can check to my website documentation
 
-https://condescending-bartik-3f576b.netlify.app/docs/10.-lab-p4-int-in-band-network-telemetry-with-onos-from-scratch/
+https://luthfi.dev/posts/lab-p4-int-in-band-network-telemetry-with-onos-from-scratch/
